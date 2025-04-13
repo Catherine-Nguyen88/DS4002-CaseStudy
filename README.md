@@ -1,4 +1,4 @@
-# DS4002-CaseStudy
+# DS4002 - Case Study on the Effect of TV Show Scripts Sentiment on Show Runtime
 
 ## Hook & Rubric Documents
 The hook document describing the case study is titled HookDocument.pdf is located within this repository. The rubric document is titled Rubric.pdf and outlines the formatting details, submission requirements, and the final deliverables needed for this study. Pay close attention to both of these documents while completing this study in order to meet the specifications/requirements and guarantee success.
