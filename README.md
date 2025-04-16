@@ -7,7 +7,7 @@ The hook document describing the case study is titled HookDocument.pdf is locate
 The required datasets for this study are located in the 'data' folder. Download the 20 tv show script pdfs and the 'all_sentiment_scores.xlsx' file which will be used for analysis.
 
 ## Source Code
-The code for this study (DS_4002_Project_1.ipynb) is located in the 'code' folder. This will be used to run VADER, our exploratory data analysis, and final analysis. Recommended to use Google Colab/Jupyter Notebook to complete this case study.
+The code for this study (CS3_script.ipynb) is located in the 'code' folder. This will be used to run VADER, our exploratory data analysis, and final analysis. Recommended to use Google Colab/Jupyter Notebook to complete this case study.
 
 ## References:
 White, Monica. “Top 10 Most Insane Things ChatGPT Has Done This Week.” Springboard Blog, 9 Dec. 2022, www.springboard.com/blog/news/chatgpt-revolution/.
