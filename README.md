@@ -10,6 +10,8 @@ The required datasets for this study are located in the 'data' folder. Download 
 The code for this study (CS3_script.ipynb) is located in the 'code' folder. This will be used to run VADER, our exploratory data analysis, and final analysis. Recommended to use Google Colab/Jupyter Notebook to complete this case study.
 
 ## References:
-White, Monica. “Top 10 Most Insane Things ChatGPT Has Done This Week.” Springboard Blog, 9 Dec. 2022, www.springboard.com/blog/news/chatgpt-revolution/.
+Fronzetti Colladon, Andrea, and Maurizio Naldi. "Predicting the Performance of TV Series through Textual and Network Analysis: The Case of Big Bang Theory." PLOS ONE, vol. 14, no. 11, 2019, e0225306. https://doi.org/10.1371/journal.pone.0225306.
 
-‌Ruby, Daniel. “ChatGPT Statistics for 2023: Comprehensive Facts and Data.” Demandsage, 28 Apr. 2023, www.demandsage.com/chatgpt-statistics/.
+Westberg, Peter. "Inside Netflix: Innovation, Originals, and Cultural Phenomena." Quartr, 9 Apr. 2024, https://quartr.com/insights/company-research/inside-netflix-innovation-originals-and-cultural-phenomena.
+
+
